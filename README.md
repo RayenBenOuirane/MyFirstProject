@@ -1,1 +1,2 @@
-# WpfApp1
+My First Project is all about a small management application defining an admin , a client and a worker which the worker has an access to the application via his account which he can make the client bought products from the small business . The Admin has the capability to verify the contiunous of the sells and watch all orders made by workers .He can also add ,delete and update a Worker and even can do what workers do.
+This small projects helped me a lot learning basics of mvvm structure , adapting a database (Microsoft Sql Server) to the application,  learning new programming language C# and the structure of FXML . 
