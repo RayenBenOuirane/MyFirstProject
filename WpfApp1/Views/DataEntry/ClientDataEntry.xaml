@@ -30,7 +30,7 @@
         <Label Content="- Nom de client : " HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="0" VerticalAlignment="Center" Height="42" Width="189" FontSize="18" FontWeight="Bold"/>
         <Label Content="- Prenom de client : " HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Center" Height="40" Width="209" FontSize="18" FontWeight="Bold"/>
         <Label Content="- Le CIN de client : " HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="2" VerticalAlignment="Center" Height="42" Width="199" FontSize="18" FontWeight="Bold"/>
-        <Label Content="- Le date de client : " HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="42" Width="209" FontSize="18" FontWeight="Bold"/>
+        <Label Content="- Le date de naissance  : " HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="42" Width="209" FontSize="18" FontWeight="Bold"/>
         <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding client.Email}" VerticalAlignment="Center" Width="177" Height="42" TextChanged="TextBox_TextChanged" FontSize="15" Grid.Row="4" Margin="224,0,0,0"/>
         <TextBox HorizontalAlignment="Left" Margin="224,0,0,0" TextWrapping="Wrap" Text="{Binding client.NumTel}" VerticalAlignment="Center" Width="177" Height="40" TextChanged="TextBox_TextChanged" Grid.Row="5" FontSize="15"/>
         <Label Content="- Email de client : " HorizontalAlignment="Left" Margin="30,0,0,0" Grid.Row="4" VerticalAlignment="Center" Height="42" Width="189" FontSize="18" FontWeight="Bold"/>
